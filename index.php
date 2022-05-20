@@ -74,7 +74,7 @@
                 Addons
             </div>
 
-            <!-- Nav Item - Pages Collapse Menu -->
+            <!-- Nav Item -  -->
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages"
                     aria-expanded="true" aria-controls="collapsePages">
